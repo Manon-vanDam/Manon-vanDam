@@ -1,4 +1,4 @@
-👋 Hi, I’m @Manon-vanDam <br>
+👋 Hi, I’m Manon <br>
 👀 I’m interested in Front-end Development and User Experience <br>
 🌱 I’m currently learning JavaScript <br>
 💞️ I’m looking to collaborate on sharing ideas on code and making it more efficient to use <br>
